@@ -1,0 +1,1 @@
+https://binus.ac.id/bandung/2022/11/real-time-operating-system/
