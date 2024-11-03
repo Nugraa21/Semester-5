@@ -5,7 +5,6 @@ Monitoring data
 ```
 ---
 
-
 [Ingris 4](<B ingris 4>) </br>
 
 - | [Semester 1 ](<>) done  
@@ -17,7 +16,6 @@ Monitoring data
 - | [Semester 7 ](<>)
 - | [UTS ](<>)
 - | [CHALENGE - Data seets online ](<>)
-
 
 [Insfrastuktur Big DATA](<Insfrastuktur Big DATA>) </br>
 
