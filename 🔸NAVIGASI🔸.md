@@ -9,7 +9,7 @@ Monitoring data
 
 - | [Semester 1 ](<>) done  
 - | [Semester 2 ](<>) done  
-- | [Semester 3 ](<>)
+- | [Semester 3 ](<>) done
 - | [Semester 4 ](<>)
 - | [Semester 5 ](<>)
 - | [Semester 6 ](<>)
