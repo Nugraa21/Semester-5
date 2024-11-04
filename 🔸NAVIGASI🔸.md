@@ -33,9 +33,9 @@ Monitoring data
 
 - | [Semester 1 ](<>) done 
 - | [Semester 2 ](<>) done
-- | [Semester 3 ](<>)
-- | [Semester 4 ](<>)
-- | [Semester 5 ](<>)
+- | [Semester 3 ](<>) done
+- | [Semester 4 ](<>) done
+- | [Semester 5 ](<>) done
 - | [Semester 6 ](<>)
 - | [Semester 7 ](<>)
 - | [UTS ](<>)
