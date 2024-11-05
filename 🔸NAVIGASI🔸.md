@@ -108,8 +108,8 @@ Monitoring data
 - | [Semester 3 ](<>) done
 - | [Semester 4 ](<>) done
 - | [Semester 5 ](<>) done
-- | [Semester 6 ](<>)
-- | [Semester 7 ](<>)
+- | [Semester 6 ](<>) done
+- | [Semester 7 ](<>) done
 - | [UTS ](<>)
 - | [CHALENGE - Data seets online ](<>)
 
